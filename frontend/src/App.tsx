@@ -6,12 +6,6 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  const hi = hi
-  var a = 1
-
-  // ❌ console.log (no-console)
-  console.log('hello')
-
   return (
     <>
       <div>
